@@ -1,7 +1,6 @@
 # SteamLauncher (c) 2018 - Corey Harwell
 
-### Download:
-[Latest Release](https://github.com/gorey666/SteamLauncher/releases)
+[Download Latest Release](https://github.com/gorey666/SteamLauncher/releases)
 
 ### Description:
 An extremely simple program to launch a user defined steam game. The program can then be used
