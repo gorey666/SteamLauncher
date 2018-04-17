@@ -1,16 +1,17 @@
------------------------------------------
-SteamLauncher (c) 2018 - Corey Harwell
------------------------------------------
+# SteamLauncher (c) 2018 - Corey Harwell
 
-Description:
+### Download:
+[Latest Release](https://github.com/gorey666/SteamLauncher/releases)
+
+### Description:
 An extremely simple program to launch a user defined steam game. The program can then be used
 as a target for shortcuts that can be customized, yet retain the "Launched through steam" behaviour.
 
-Why:
+### Why:
 Some games do not like to be launched directly from their .exe file, and will instead force you to launch it either through
 steam or a steam generated shortcut (which cannot be customized).
 
-Usage:
+### Usage:
 1. Place the contents of the zip file in your game's steam folder.
 2. Add the game's steam appID to the SteamLauncher.ini configuration file.
 3. Create a shortcut to the SteamLauncher.exe program on your desktop or start menu.
@@ -25,3 +26,5 @@ How to get the game's AppID:
 OR
 
 Navigate to the game's store page on steam in a web browser. The AppID will be in the URL of the page.
+
+
