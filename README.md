@@ -6,11 +6,9 @@ Description:
 An extremely simple program to launch a user defined steam game. The program can then be used
 as a target for shortcuts that can be customized, yet retain the "Launched through steam" behaviour.
 
-
 Why:
-Some games do not like to be launched directly, and will instead force you to launch them either through
-steam or a steam generated shortcut (wich cannot be customized).
-
+Some games do not like to be launched directly from their .exe file, and will instead force you to launch it either through
+steam or a steam generated shortcut (which cannot be customized).
 
 Usage:
 1. Place the contents of this zip file in your game's steam folder.
@@ -18,7 +16,6 @@ Usage:
 3. Create a shortcut to the SteamLauncher.exe program on your desktop or start menu.
 4. Customize the shortcut's icon. ex: Point it to the game's real .exe file to use the game's icon.
 5. Use 3rd party tools to create a windows 10 tile for this shortcut.
-
 
 How to get the game's AppID:
 1. Right click the game in steam and choose "Create desktop Shortcut".
