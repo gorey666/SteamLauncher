@@ -1,4 +1,4 @@
-# SteamLauncher ©2018 - Corey Harwell
+# SteamLauncher by: Corey Harwell
 
 [Download Latest Release](https://github.com/gorey666/SteamLauncher/releases)
 
