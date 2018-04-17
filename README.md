@@ -11,7 +11,7 @@ Some games do not like to be launched directly from their .exe file, and will in
 steam or a steam generated shortcut (which cannot be customized).
 
 Usage:
-1. Place the contents of this zip file in your game's steam folder.
+1. Place the contents of the zip file in your game's steam folder.
 2. Add the game's steam appID to the SteamLauncher.ini configuration file.
 3. Create a shortcut to the SteamLauncher.exe program on your desktop or start menu.
 4. Customize the shortcut's icon. ex: Point it to the game's real .exe file to use the game's icon.
